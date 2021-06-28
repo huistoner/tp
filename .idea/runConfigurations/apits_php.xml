@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="apits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" editBeforeRun="true" singleton="false" path="$PROJECT_DIR$/application/index/controller/api/apits.php">
+    <method v="2" />
+  </configuration>
+</component>
